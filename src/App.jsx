@@ -18,7 +18,7 @@ export default function App() {
 
       <section className="register">
         <button
-        onClick={() => window.open("/pdf/MIMS_Magnus_2.0.pdf", "_blank")}
+        onClick={() => window.open("/public/pdf/MIMS_Magnus_2.0.pdf", "_blank")}
   >
         MIMS MAGNUS 2.0 BROCHURE
         </button>
